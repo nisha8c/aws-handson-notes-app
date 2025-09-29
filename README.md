@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+## AWS AMPLIFY
+You have created a React web app and used AWS Amplify to host it on AWS! You provisioned a cloud backend and used Amplify to configure auth, data, and storage resources. Additionally, you created a frontend allowing users to create, read, update, and delete their notes. You have also enabled them to select and upload an image to associate it with their notes.
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
